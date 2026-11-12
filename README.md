@@ -1,2 +1,7 @@
-# void-cyber-infiltration
-void cyber infiltration game (modified google chrome dino game)
+# 🌌 void-cyber-infiltration
+
+🕳️ **VOID CYBER INFILTRATION**
+
+A cyber-themed twist on the Google Chrome Dino game. 🦖⚡
+
+🌑 Enter the VOID. 🖥️
